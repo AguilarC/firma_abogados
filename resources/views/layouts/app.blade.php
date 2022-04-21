@@ -257,7 +257,7 @@
                     <!-- Add icons to the links using the .nav-icon class
                         with font-awesome or any other icon font library -->
                     <li class="nav-item">
-                      <a href="#" class="nav-link active">
+                      <a href="#" class="nav-link ">
                         <i class="nav-icon fas fa-user-alt"></i>
                         <p>
                           USUARIOS
@@ -282,7 +282,7 @@
                       </ul>
                     </li>
                     <li class="nav-item">
-                      <a href="#" class="nav-link">
+                      <a href="tramites" class="nav-link">
                         <i class="nav-icon fas fa-folder"></i>
                         <p>
                           TRAMITES
@@ -291,13 +291,13 @@
                       </a>
                       <ul class="nav nav-treeview">
                         <li class="nav-item">
-                          <a href="#" class="nav-link">
+                          <a href="tramites" class="nav-link">
                             <i class="far fa-circle nav-icon"></i>
                             <p>ADMINISTRAR</p>
                           </a>
                         </li>
                         <li class="nav-item">
-                          <a href="#" class="nav-link">
+                          <a href="tramites" class="nav-link">
                             <i class="far fa-circle nav-icon"></i>
                             <p>REPORTES</p>
                           </a>
@@ -315,14 +315,14 @@
                       </a>
                       <ul class="nav nav-treeview">
                         <li class="nav-item">
-                          <a href="#" class="nav-link">
+                          <a href="procesos" class="nav-link">
                             <i class="far fa-circle nav-icon"></i>
                             <p>ADMINISTRAR</p>
                           </a>
                         </li>
                         
                         <li class="nav-item">
-                          <a href="#" class="nav-link">
+                          <a href="procesos" class="nav-link">
                             <i class="far fa-circle nav-icon"></i>
                             <p>REPORTES</p>
                           </a>
